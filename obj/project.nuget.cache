@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBf3cjzZ7pz/ZV2yEbAni7QglGIti3UPF8MXM1uhiFis9jI/nBpyULehO+dA58hrmNbXT8/lt2az/nDoIe3jOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ordenador\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ordenador\\.nuget\\packages\\keras.net\\3.8.5\\keras.net.3.8.5.nupkg.sha512",
+    "C:\\Users\\Ordenador\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Ordenador\\.nuget\\packages\\numpy.bare\\3.8.1.25\\numpy.bare.3.8.1.25.nupkg.sha512",
+    "C:\\Users\\Ordenador\\.nuget\\packages\\pythonnet_netstandard_py38_win\\2.5.1\\pythonnet_netstandard_py38_win.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

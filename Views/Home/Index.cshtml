@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    @model WebApplication3.MLModel
+}
+
+<div class="text-center">
+    <img src="~/images/logo.png" alt="Descripción de la imagen"/>
+     <h2>Resultado de la evaluación:</h2>
+    <p style="font-size: 1.5em">Exactitud: @Model.Accuracy.ToString("0.##")%</p>
+</div>
+
